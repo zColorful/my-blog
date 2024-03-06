@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 
-const BASE = "/vitepress-template/";
+const BASE = "/";
 
 export default defineConfig({
   lang: "zh-CN",
